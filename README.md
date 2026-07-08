@@ -1,5 +1,3 @@
-# awesome-free-ai-social-media-tools
-A curated list of free-tier AI tools for social media automation, video generation, and content creation (2026 Edition).
 # 🚀 Awesome Free AI Tools for Social Media (2026)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -31,6 +29,7 @@ RAG-based agents and asset management.
 *   [Genspark](https://www.genspark.ai/) - AI-powered search agent for trend analysis.
 *   [Fabric](https://fabric.so/) - Semantic search for your digital assets (The "Second Brain").
 *   [CustomGPT.ai](https://customgpt.ai/) - No-code RAG chatbot builder for customer support.
+*   [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for structured X/Twitter search, reply, profile, follower, and media exports that can feed social content planning workflows.
 
 ---
 
