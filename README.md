@@ -32,6 +32,13 @@ RAG-based agents and asset management.
 *   [Fabric](https://fabric.so/) - Semantic search for your digital assets (The "Second Brain").
 *   [CustomGPT.ai](https://customgpt.ai/) - No-code RAG chatbot builder for customer support.
 
+## 📊 Social Data & Automation
+Tools for social monitoring, API access, and agent-ready workflow automation.
+
+*   [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter automation through REST, MCP, webhooks, SDKs, monitoring, and gated actions. SDKs and documentation are public; X data calls use a subscription or pay-per-use billing.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
 ---
 
 ## 🤝 Contribution
