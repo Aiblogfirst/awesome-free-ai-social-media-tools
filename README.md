@@ -20,6 +20,8 @@ Tools leveraging diffusion models and GANs for video synthesis.
 *   [HeyGen](https://www.heygen.com/) - SOTA lip-sync technology.
 *   [Pictory](https://pictory.ai/) - NLP-based long-form to short-form video summarization.
 
+*   [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Free, open-source CLI and MCP toolkit for agent-driven video composition, editing, optional generation, and assembly from editable timelines; install from source.
+
 ## 🎙️ Audio & Voice Synthesis
 Text-to-Speech (TTS) models for voiceovers.
 
