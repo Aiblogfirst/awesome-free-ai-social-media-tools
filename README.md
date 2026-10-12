@@ -25,6 +25,12 @@ Text-to-Speech (TTS) models for voiceovers.
 
 *   [Murf AI](https://murf.ai/) - Studio-quality voice generation with pitch control.
 
+## 🎧 Speech Enhancement
+
+Tools for reducing noise in recorded speech.
+
+*   [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; no signup or audio upload, limited to 50 MB and five minutes per file.
+
 ## 🧠 Research & Organization
 RAG-based agents and asset management.
 
