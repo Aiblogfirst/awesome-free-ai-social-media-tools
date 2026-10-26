@@ -14,6 +14,7 @@ For a detailed breakdown of credit limits, export resolutions, and commercial ri
 ---
 
 ## 📹 Video Generation & Avatars
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 Tools leveraging diffusion models and GANs for video synthesis.
 
 *   [Vidnoz AI](https://www.vidnoz.com/) - Free AI video generator with realistic avatars. Great for "faceless" channels.
