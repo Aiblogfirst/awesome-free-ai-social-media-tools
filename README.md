@@ -19,6 +19,7 @@ Tools leveraging diffusion models and GANs for video synthesis.
 *   [Vidnoz AI](https://www.vidnoz.com/) - Free AI video generator with realistic avatars. Great for "faceless" channels.
 *   [HeyGen](https://www.heygen.com/) - SOTA lip-sync technology.
 *   [Pictory](https://pictory.ai/) - NLP-based long-form to short-form video summarization.
+*   [Cyanvid](https://cyanvid.com/?utm_source=aiblogfirst-awesome-free-ai-social-media-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images; credit quotes before generate.
 
 ## 🎙️ Audio & Voice Synthesis
 Text-to-Speech (TTS) models for voiceovers.
